@@ -49,7 +49,7 @@ const Portfolio = () => {
             Projects
           </Link>
           <Link
-            href="#"
+            href="#about"
             className="text-sm font-medium hover:underline underline-offset-4"
             prefetch={false}
           >
@@ -59,7 +59,9 @@ const Portfolio = () => {
       </header>
       <main className="flex-1">
         <Projects />
-        <About2 />
+        <section id="about" className="h-screen">
+          <About2 />
+        </section>
       </main>
       <footer className="flex flex-col gap-2 sm:flex-row py-6 w-full shrink-0 items-center px-4 md:px-6 border-t">
         <p className="text-xs text-muted-foreground">
