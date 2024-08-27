@@ -8,7 +8,7 @@ const About2 = () => {
           About Me
         </h2>
         <p className="max-w-[600px] text-muted-foreground">
-          Hi, I'm John Doe, a passionate web developer with a keen eye for
+          Hi, I&apos;m John Doe, a passionate web developer with a keen eye for
           design. I love crafting beautiful and functional websites that deliver
           exceptional user experiences.
         </p>

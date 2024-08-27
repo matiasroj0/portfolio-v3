@@ -12,9 +12,9 @@ const About = () => {
             Matias Rojo
           </h2>
           <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-            I'm a passionate web developer with a focus on creating beautiful
-            and functional websites. I have experience working with a variety of
-            technologies and enjoy tackling new challenges.
+            I&apos;m a passionate web developer with a focus on creating
+            beautiful and functional websites. I have experience working with a
+            variety of technologies and enjoy tackling new challenges.
           </p>
           <div className="flex flex-col gap-2 min-[400px]:flex-row">
             <Link
