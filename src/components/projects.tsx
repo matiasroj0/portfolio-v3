@@ -10,7 +10,7 @@ const Projects = () => {
               My Projects
             </h2>
             <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-              Check out some of the projects I$&apos;ve worked on.
+              Check out some of the projects I&apos;ve worked on.
             </p>
           </div>
         </div>
