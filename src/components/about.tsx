@@ -9,7 +9,7 @@ const About = () => {
             About Me
           </div>
           <h2 className="text-3xl font-bold tracking-tighter md:text-4xl/tight">
-            Matias Rojo
+            Matias <span className="text-secondary">Rojo</span>
           </h2>
           <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
             I&apos;m a passionate web developer with a focus on creating
